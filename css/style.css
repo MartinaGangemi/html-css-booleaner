@@ -7,11 +7,45 @@
 #container-logo {
 
     background-image: url(../img/pattern.png) ;
+    background-size: 20%;
     background-color: #4EA0FF;
     height: 100px;
     }
 
 #logo{
     width: 200px;
-    padding-top: 40px;
+    padding-top: 50px;
+}
+
+main {
+    margin: 0 auto;
+    width: 1100px;
+    
+}
+
+h1{
+    font-size: 45px;
+    margin-top: 20px;
+}
+
+#autore {
+    color: #808080;
+    font-weight: 700;
+    font-size: 20px;
+    line-height:15px;
+    margin-bottom: 20px;
+}
+
+a {
+    color:#20A9E5;
+    text-decoration: none;
+}
+
+#data {
+    font-size: 12px;
+}
+
+#description_photo{
+    font-size: 12px;
+    line-height:15px;
 }
