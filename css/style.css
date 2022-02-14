@@ -16,11 +16,13 @@
 #logo{
     width: 200px;
     padding-top: 50px;
+    margin-left: 400px;
+    
 }
 
 main {
     margin: 0 auto;
-    width: 1100px;
+    width: 60%;
     
 }
 
@@ -28,6 +30,7 @@ footer {
     margin: 0 auto;
     width: 1100px;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 h1{
@@ -66,6 +69,10 @@ a {
     margin-top: 20px;
 }
 
+ section>ul {
+    padding-left: 15px;
+}
+
 ul {
     margin-top: 30px;
     margin-bottom: 30px;
@@ -93,6 +100,9 @@ table {
     margin-bottom: 20px;   
 }
 
+table {
+    border-collapse: collapse;
+}
 #box1 {
     background-image: url(../img/monitor.jpg);
     width: 312px;
