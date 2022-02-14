@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container-logo {
+
+    background-image: url(../img/pattern.png) ;
+    background-color: #4EA0FF;
+    height: 100px;
+    }
+
+#logo{
+    width: 200px;
+    padding-top: 40px;
+}
