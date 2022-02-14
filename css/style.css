@@ -24,12 +24,19 @@ main {
     
 }
 
+footer {
+    margin: 0 auto;
+    width: 1100px;
+    margin-top: 30px;
+}
+
 h1{
     font-size: 45px;
     margin-top: 20px;
 }
 
-#autore {
+
+.gray_title {
     color: #808080;
     font-weight: 700;
     font-size: 20px;
@@ -68,7 +75,7 @@ ul {
     width: 50%;
 }
  
-.25 {
+.prima_seconda_colonna {
     width: 25%;
 }
 
@@ -79,12 +86,29 @@ ul {
 }
 
 .row{
-    background-color: #B1E5F2;
-    padding: ;
+    background-color: #B1E5F2;   
 }
 
 table {
-    margin-bottom: 20px;
-    border: 0px;
-    border: none;
+    margin-bottom: 20px;   
+}
+
+#box1 {
+    background-image: url(../img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+    margin-bottom: 10px;
+}
+
+#box2 {
+    background-image: url(../img/graph.jpg);
+    width: 312px;
+    height: 208px;
+}
+
+h2{
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
